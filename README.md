@@ -16,7 +16,9 @@ This project explores and analyzes U.S. flight delay data using Python. It invol
 ##  **Key Steps**
 
 ✅ Cleaned data by removing cancelled/diverted flights, handling missing values, and filtering outliers
+
 ✅ Merged datasets for enriched flight records (airline names, airport info)
+
 ✅ Visualized:
 
 * Arrival delay distribution
